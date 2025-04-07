@@ -1,6 +1,6 @@
 # 💍 Shruti & Shreeansh's Wedding Website
 
-Welcome to the official GitHub repository for **Shruti & Shreeansh's Wedding Website**! This project is a personalized, beautiful, and functional website built with **React** and will showcase everything about our wedding celebration.
+Welcome to the official GitHub repository for **A Wedding Website**! This project is a personalized, beautiful, and functional website built with **React** and will showcase everything about our wedding celebration.
 
 This site is being built with 💛 love, React, and a touch of magic.
 
