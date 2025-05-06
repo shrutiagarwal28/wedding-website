@@ -1,4 +1,6 @@
-export default {
+// eslint-disable-next-line no-undef
+module.exports = {
+    darkMode: false,
     content: [
         "./index.html",
         "./src/**/*.{js,ts,jsx,tsx}",
@@ -7,4 +9,5 @@ export default {
         extend: {},
     },
     plugins: [],
+//     test
 }

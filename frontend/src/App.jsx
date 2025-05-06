@@ -1,17 +1,17 @@
 import './App.css'
+import Home from './components/Home';
 
-function App() {
 
+export default function App() {
     return (
-        <div className="min-h-screen bg-pink-100 flex flex-col items-center justify-center text-center p-10">
-            <h1 className="text-4xl font-bold text-pink-600 mb-4">
-                Bride & Groom 💍
+        <div className="!min-h-screen flex items-center justify-center bg-yellow-100">
+            <h1 className="text-3xl text-red-300 bg-yellow-200 p-6 rounded-md shadow-lg">
+                Tailwind is working!
             </h1>
-            <p className="text-lg text-gray-700">
-                We’re getting married — and you’re invited! 🎉
-            </p>
+            <div className="bg-blue-700">Background with blue color</div>
+
         </div>
     );
 }
 
-export default App
+
