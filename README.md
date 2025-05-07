@@ -12,7 +12,7 @@ This site is being built with 💛 love, React, and a touch of magic.
 - 🏠 **Home Page** with couple's names, wedding date, and a sweet welcome message
 - ⏳ **Countdown Timer** to the big day!
 - 📍 **Google Maps Embed** for venue location and navigation help
-- 📸 **Photo Gallery** to showcase pre-wedding and wedding memories
+- 📸 **Photo Gallery** to showcase pre-wedding and wedding memories, with login feature in future
 - 🖼️ **Lightbox-style Photo Viewer** for better experience
 - 📤 **QR Code** guests can scan to upload their photos (linked to a Google Drive folder or form)
 - 📅 **Event Schedule Timeline** with dates, times, and venue info
