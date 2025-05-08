@@ -3,7 +3,7 @@ function Home() {
     return (
         <section className="min-h-screen bg-gradient-to-br from-pink-100 via-white to-pink-50 flex flex-col justify-center items-center text-center px-6 py-12">
             <h1 className="text-5xl sm:text-6xl font-extrabold text-pink-600 mb-4">
-                Vasanthi & Aman
+                Bride & Groom
             </h1>
             <h1 className="text-3xl text-red-600">Tailwind Test</h1>
             <p className="text-lg sm:text-xl text-gray-700 max-w-xl mb-6">
